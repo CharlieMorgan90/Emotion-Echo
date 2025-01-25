@@ -75,7 +75,4 @@ These additional techniques enhanced the model’s ability to classify unseen, e
 ### 2. Enhanced Real-Time Processing
 - Optimize the model's architecture to further reduce latency in real-time mode while maintaining accuracy.
 
----
-
-Let me know if you'd like additional edits or refinements!
 
