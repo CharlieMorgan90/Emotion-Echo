@@ -11,7 +11,7 @@
 
 While I contributed to the app's UI using Kotlin, my primary focus was designing and developing the machine learning models that power the emotion classification. This README delves into the ML model's technical details, techniques, and key performance metrics.  
 
-For more details about the project or instructions to run it locally, refer to the [EmotionEchoLink.md](#) file.
+For more details about the project or instructions to run it locally, refer to the [EmotionEchoLink.md](EmotionEchoLink.md) file.
 
 ---
 
